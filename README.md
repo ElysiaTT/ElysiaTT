@@ -1,4 +1,4 @@
-### 👋 Hi, I'm ZHIheng TIAN (ElysiaTT)
+### 👋 Hi, I'm Zhiheng Tian (ElysiaTT)
 
 - 🎓 **Undergraduate** at Huazhong University of Science and Technology (HUST), CS Major.
 - 🚀 **AI Group Leader** at **[Unique Studio (联创团队)](https://hustunique.com/)** (2024 - 2026), leading top-tier student developers and researchers.
@@ -16,12 +16,13 @@
 
 #### **OmniPresent Unified Framework & Benchmark for Academic Multimodal Agents**
 - Designed a system to generate multimedia artifacts (website, posters, videos, PPTs) from research PDFs.
-- Developed benchmark and evaluation metric for PDF document understanding.
+- Developed benchmark and evaluation metric for papers.
 
-#### **3D-VLA & Embodied AI Research**
-- Exploring 3D spatial perception and end-to-end control in complex environments.
-- Optimizing 3DGS-based representations for interactive embodied tasks.
-
+#### **[3D-VLA & World Models for Embodied AI]**
+- **Framework Integration**: Investigating the deep integration of 3D-VLA architectures with **World Models** to tackle perception and decision-making challenges in long-tail autonomous driving and embodied scenarios.
+- **Long-Horizon Planning**: Designing a World Model-driven closed-loop decision system ("Semantic Prediction -> Trajectory Imagination -> Action Execution"). Exploring self-supervised environment transition modeling and theoretical risk anticipation pipelines for complex scenarios in simulators like CARLA.
+- **Latent Space Alignment**: Addressing the weak temporal generalization of pure 3D rendering algorithms (e.g., 3DGS) in dynamic environments by exploring optimization strategies to align 3D Gaussian features with the latent space of World Models.
+- 
 #### **Long-form Video Generation**
 - Developing data pipelines with **Qwen3/Molmo2** and **SAM 2** for temporal consistency and entity tracking.
 - Time-controllable Video Generation Model (In Development, Expected 2026.06).
