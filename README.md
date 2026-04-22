@@ -42,8 +42,8 @@
 ### 🏆 Honors & Experience
 
   - **ACL 2026** Main Conference Paper (Accepted).
-  - **AI Group Leader** @ HUST Unique Studio (2024 - 2026).
-  - **Honor Prize** @ National University of Singapore (NUS) Summer Program.
+  - **AI Group Leader** @ HUST Unique Studio(https://github.com/Uniquestudio) (2024 - 2026).
+  - **Honor Prize** National University of Singapore (NUS) Summer Program.
   - **Scholarships**: Technology Innovation Scholarship (HUST).
 
 -----
