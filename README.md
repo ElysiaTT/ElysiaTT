@@ -1,19 +1,53 @@
 ### 👋 Hi, I'm ZHIHENG TIAN (ElysiaTT)
-- 🎓 就读于 **华中科技大学 计算机科学与技术学院**
-- 💻 求职方向：Android开发、Java开发、前端开发（实习/校招）
-- 🌱 核心技术栈：Java、Android Studio、HTML/CSS/JavaScript，持续深耕移动开发与Web全栈技术
-- 📮 联系方式：xxx@xxx.com（可补充LinkedIn、掘金、个人博客链接）
 
----
+  - 🎓 **Undergraduate** at Huazhong University of Science and Technology (HUST), CS Major.
+  - 🚀 **AI Group Leader** at **[Unique Studio (联创团队)](https://hustunique.com/)**, leading top-tier student developers and researchers.
+  - 🔍 **Research Interest**: 3D Vision-Language-Action (VLA) models, Agent, 3D Gaussian Splatting (3DGS), Embodied AI, and Long Video Generation.
+  - 🛠️ **Tech Philosophy**: Bridging the gap between "Orthodox" 3D algorithms and LLM Agent workflows.
 
-### 🛠 技术能力矩阵
-- **移动端开发**：Java、Android Studio、Jetpack基础组件、SQLite、SharedPreferences
-- **前端开发**：HTML5、CSS3、JavaScript、Flex/Grid响应式布局
-- **工具与工程**：Git、Linux、MySQL、Markdown、Postman
+-----
 
----
+### 🔬 Research & Projects
 
-### 🚀 核心项目
-- 📱 [外卖点餐Android App](https://github.com/ElysiaTT/takeout)：基于Android Studio开发，实现用户登录、商家展示、购物车、订单管理等核心功能
-- 🏠 [宿舍管理系统前端页面](https://github.com/ElysiaTT/522-dormitory)：HTML原生开发的响应式管理页面，覆盖宿舍信息、值日排班、费用分摊等场景
-- 
+#### **[Paper2Rebuttal](https://github.com/ElysiaTT/Paper2Rebuttal)** | **Evidence-Centric Multi-Agent System for Academic Rebuttals**
+- 🏆 **Accepted by ACL 2026 (Main Conference)**
+- **Innovation**: Reconstructed rebuttal generation as an **evidence-centric planning task**. Features atomic review decomposition, high-fidelity context construction, and autonomous external literature retrieval.
+- **Benchmark**: Developed **RebuttalBench**, a high-fidelity evaluation suite that simulates real-world academic review noise and "Tier 3" fuzzy boundaries.
+- **Impact**: Effectively eliminates hallucinations in LLM responses by anchoring every argument to verifiable internal/external evidence.
+  
+#### **[OmniPresent]Unified Framework & Benchmark for Academic Multimodal Agents**
+
+  - Designed a system to generate multimedia artifacts (posters, videos, PPTs) from research PDFs.
+  - Developed **PaperAlive** evaluation benchmark and **RebuttalBench** for high-fidelity peer review simulation.
+
+#### **[3D-VLA & Embodied AI Research]**
+
+  - Exploring 3D spatial perception and end-to-end control in complex environments.
+  - Optimizing 3DGS-based representations for interactive embodied tasks.
+
+#### **[Long-form Video Generation]**
+
+  - Developing data pipelines with **Qwen3/Molmo2** and **SAM 3** for temporal consistency and entity tracking.
+
+-----
+
+### 🛠 Tech Stack Matrix
+
+  - **AI & Research**: PyTorch, 3DGS, LLM Agents (ReAct/RAG), VLA Architectures.
+  - **Engineering**: Python, C/C++, Java (Android), Linux, Git, AI-driven development (Cursor/Vibe Coding).
+
+-----
+
+### 🏆 Honors & Experience
+
+  - **ACL 2026** Main Conference Paper (Accepted).
+  - **AI Group Leader** @ HUST Unique Studio (2024 - 2026).
+  - **Honor Prize** @ National University of Singapore (NUS) Summer Program.
+  - **Scholarships**: Technology Innovation Scholarship (HUST).
+
+-----
+
+### 📮 Contact & Links
+
+  - 📧 **Email**: u202315600@hust.edu.cn
+  - 🎸 **Offline**: Learning electric guitar, football and photography.
