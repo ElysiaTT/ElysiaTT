@@ -9,7 +9,7 @@
 
 ### 🔬 Research & Projects
 
-#### **[Paper2Rebuttal](https://github.com/ElysiaTT/Paper2Rebuttal)** | **Evidence-Centric Multi-Agent System for Academic Rebuttals**
+#### **[Paper2Rebuttal]https://github.com/AutoLab-SAI-SJTU/Paper2Rebuttal** | **Evidence-Centric Multi-Agent System for Academic Rebuttals**
 - 🏆 **Accepted by ACL 2026 (Main Conference)**
 - **Innovation**: Reconstructed rebuttal generation as an **evidence-centric planning task**. Features atomic review decomposition, high-fidelity context construction, and autonomous external literature retrieval.
 - **Benchmark**: Developed **RebuttalBench**, a high-fidelity evaluation suite that simulates real-world academic review noise and "Tier 3" fuzzy boundaries.
