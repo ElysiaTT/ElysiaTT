@@ -24,7 +24,7 @@
 - **Latent Space Alignment**: Addressing the weak temporal generalization of pure 3D rendering algorithms (e.g., 3DGS) in dynamic environments by exploring optimization strategies to align 3D Gaussian features with the latent space of World Models.
 
 #### **Long-form Video Generation**
-- Developing data pipelines with **Qwen3/Molmo2** and **SAM 2** for temporal consistency and entity tracking.
+- Developing data pipelines with **Qwen3/Molmo2** and **SAM 3** for temporal consistency and entity tracking.
 - Time-controllable Video Generation Model (In Development, Expected 2026.06).
 
 ---
