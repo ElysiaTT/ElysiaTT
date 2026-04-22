@@ -17,8 +17,8 @@
   
 #### **[OmniPresent]Unified Framework & Benchmark for Academic Multimodal Agents**
 
-  - Designed a system to generate multimedia artifacts (posters, videos, PPTs) from research PDFs.
-  - Developed **PaperAlive** evaluation benchmark and **RebuttalBench** for high-fidelity peer review simulation.
+  - Designed a system to generate multimedia artifacts (website, posters, videos, PPTs) from research PDFs.
+  - Developed benchmark and evaluation metric for PDF di.
 
 #### **[3D-VLA & Embodied AI Research]**
 
@@ -28,13 +28,14 @@
 #### **[Long-form Video Generation]**
 
   - Developing data pipelines with **Qwen3/Molmo2** and **SAM 3** for temporal consistency and entity tracking.
+  - Training a time-controlling model soon.
 
 -----
 
 ### 🛠 Tech Stack Matrix
 
   - **AI & Research**: PyTorch, 3DGS, LLM Agents (ReAct/RAG), VLA Architectures.
-  - **Engineering**: Python, C/C++, Java (Android), Linux, Git, AI-driven development (Cursor/Vibe Coding).
+  - **Engineering**: Python, C/C++, Git, AI-driven development (Cursor/Vibe Coding).
 
 -----
 
