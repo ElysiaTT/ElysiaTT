@@ -14,15 +14,15 @@
 - **Innovation**: Reconstructed rebuttal generation as an **evidence-centric planning task**. Features atomic review decomposition, high-fidelity context construction, and autonomous external literature retrieval.
 - **Impact**: Effectively eliminates hallucinations in LLM responses by anchoring every argument to verifiable internal/external evidence.
 
-#### **[OmniPresent] Unified Framework & Benchmark for Academic Multimodal Agents**
+#### **OmniPresent Unified Framework & Benchmark for Academic Multimodal Agents**
 - Designed a system to generate multimedia artifacts (website, posters, videos, PPTs) from research PDFs.
 - Developed benchmark and evaluation metric for PDF document understanding.
 
-#### **[3D-VLA & Embodied AI Research]**
+#### **3D-VLA & Embodied AI Research**
 - Exploring 3D spatial perception and end-to-end control in complex environments.
 - Optimizing 3DGS-based representations for interactive embodied tasks.
 
-#### **[Long-form Video Generation]**
+#### **Long-form Video Generation**
 - Developing data pipelines with **Qwen3/Molmo2** and **SAM 2** for temporal consistency and entity tracking.
 - Time-controllable Video Generation Model (In Development, Expected 2026.06).
 
@@ -39,7 +39,6 @@
 
 - **ACL 2026** Main Conference Paper (Accepted, Core Contributor).
 - **AI Group Leader** @ [HUST Unique Studio](https://github.com/Uniquestudio) (2024 - 2026)
-  - Led 10+ student researchers in 3D vision & LLM Agent projects.
   - Organized team technical sharing sessions and hackathon participation.
 - **Honor Prize** @ National University of Singapore (NUS) Summer Program (2025).
 - **Technology Innovation Scholarship** @ HUST (2024 - 2025).
