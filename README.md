@@ -1,4 +1,8 @@
-### 👋 Hi, I'm Zhiheng Tian (ElysiaTT)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Zhiheng+Tian+(ElysiaTT)&font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=false&width=600&height=40&loop=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Zhiheng+Tian+(ElysiaTT)&font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=false&width=600&height=40&loop=true">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Zhiheng+Tian+(ElysiaTT)&font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=false&width=600&height=40">
+</picture>
 
 - 🎓 **Undergraduate** at Huazhong University of Science and Technology (HUST), CS Major.
 - 🚀 **AI Group Leader** at **[Unique Studio (联创团队)](https://hustunique.com/)** (2024 - 2026), leading top-tier student developers and researchers.
@@ -53,6 +57,6 @@
 - 🎸 **Offline**: Learning electric guitar, playing football, and practicing photography.
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+
 
 
