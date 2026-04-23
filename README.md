@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Zhiheng+Tian+(ElysiaTT)&font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=false&width=600&height=40)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Zhiheng+Tian+(ElysiaTT)&font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&background=FFFFFF&center=false&width=600&height=40)
 
 - 🎓 **Undergraduate** at Huazhong University of Science and Technology (HUST), CS Major.
 - 🚀 **AI Group Leader** at **[Unique Studio (联创团队)](https://hustunique.com/)** (2024 - 2026), leading top-tier student developers and researchers.
