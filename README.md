@@ -1,15 +1,20 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Zhiheng+Tian+%28ElysiaTT%29&font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=false&width=750&height=40">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Zhiheng+Tian+%28ElysiaTT%29&font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=false&width=750&height=40">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Zhiheng+Tian+%28ElysiaTT%29&font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=false&width=750&height=40">
-</picture>
+<h1 align="center">Hi there 👋, I’m ElysiaTT</h1>
 
+<div align="center">
+  🎓 CS Undergraduate @ <strong>HUST</strong> | 💼 AI Group Leader @ <a href="https://hustunique.com/"><strong>Unique Studio (联创团队)</strong></a>
+</div>
+<br>
 
-- 🎓 **Undergraduate** at Huazhong University of Science and Technology (HUST), CS Major.
-- 🚀 **AI Group Leader** at **[Unique Studio (联创团队)](https://hustunique.com/)** (2024 - 2026), leading top-tier student developers and researchers.
-- 🔍 **Research Interest**: 3D Vision-Language-Action (VLA) models, Agents, 3D Gaussian Splatting (3DGS), Embodied AI, and Long Video Generation.
-- 🛠️ **Tech Philosophy**: Bridging the gap between "orthodox" 3D algorithms and LLM Agent workflows.
+<div align="center">
+  <a href="https://github.com/ElysiaTT">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=00BFFF&vCenter=true&center=true&width=900&repeat=true&lines=Exploring+3D+Vision+%26+Generative+AI;Building+cool+things+at+Unique+Studio;Recent+work+in+ACL+2026+%26+ICML+2026;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </a>
+</div>
 
+- 🔍 **Research Interests:** 
+  - **3D & Vision:** 3D Gaussian Splatting (3DGS), NeRF, and Long Video Generation.
+  - **Agent & Embodied AI:** Vision-Language-Action (VLA) models and intelligent Agent workflows.
+- 🛠️ **Tech Philosophy:** Bridging the gap between rigorous, "orthodox" 3D computer vision algorithms and the dynamic reasoning of LLM Agents.
 ---
 
 ### 🔬 Research & Projects
