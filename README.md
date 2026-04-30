@@ -5,11 +5,7 @@
 </div>
 <br>
 
-<div align="center">
-  <a href="https://github.com/ElysiaTT">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=00BFFF&vCenter=true&center=true&width=900&repeat=true&lines=Exploring+3D+Vision+%26+Generative+AI;Building+cool+things+at+Unique+Studio;Recent+work+in+ACL+2026+%26+ICML+2026;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=00BFFF&vCenter=true&width=900&repeat=true&lines=🔬+Exploring+3D+Vision+%26+Generative+AI.+🌟+Bridging+3DGS+%26+LLMs.;💼+AI+Group+Leader+@+Unique+Studio.+✅+Building+cool+things.;🚀+Recent+works+in+ACL+2026+%26+ICML+2026.;Research.+Code.+Innovate.)](https://github.com/ElysiaTT)
 
 - 🔍 **Research Interests:** 
   - **3D & Vision:** 3D Gaussian Splatting (3DGS), NeRF, and Long Video Generation.
