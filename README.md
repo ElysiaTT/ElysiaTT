@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I’m ElysiaTT</h1>
 
 <div align="center">
-  🎓 CS Undergraduate @ <strong>HUST</strong> | 💼 AI Group Leader @ <a href="https://hustunique.com/"><strong>Unique Studio (联创团队)</strong></a>
+  🎓 CS Undergraduate @ <strong>HUST</strong> | 💼 AI Group Leader @ <a href="https://github.com/Uniquestudio"><strong>Unique Studio (联创团队)</strong></a>
 </div>
 <br>
 
@@ -44,7 +44,7 @@
 ### 🏆 Honors & Experience
 
 - **ACL 2026** Main Conference Paper (Accepted, Core Contributor).
-- **AI Group Leader** @ [HUST Unique Studio](https://github.com/Uniquestudio) (2024 - 2026)
+- **AI Group Leader** @ [HUST Unique Studio](https://hustunique.com/) (2024 - 2026)
   - Organized team technical sharing sessions and hackathon participation.
 - **Honor Prize** @ National University of Singapore (NUS) Summer Program (2024).
 - **Technology Innovation Scholarship** @ HUST (2024 - 2025, 2025-2026).
